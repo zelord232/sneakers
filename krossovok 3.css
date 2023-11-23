@@ -1,0 +1,44 @@
+.info{
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+.text{
+    width: 45%;
+    margin-left: 3%;
+}
+.text2{
+    width: 45%;
+    margin-right: 3%;
+}
+.main{
+    justify-content: center;
+    align-items: center;
+}
+.big-krossovok{
+    background-color: #ffff;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0%;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin-top: 30px;
+    border-radius: 10px;
+
+}
+.cont__snykers{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+h3{
+    text-decoration: none;
+    color: black;
+}
+p{
+    text-decoration: none;
+    color: black;
+}
